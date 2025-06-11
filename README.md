@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Wifi1230
-- 👀 I’m interested in blockchain apps
-- 🤓 I’m currently learning [html,css,js,sql,php] for exam(inf.03) and rust for myself
+- 👀 I’m interested in AI engineering but currently learning basic python
 - 📫 Discord: playboi_wifi
 
 <!---
