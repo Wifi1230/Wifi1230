@@ -1,15 +1,23 @@
-Hi, I'm Oliwier Zaręba 
-Software Engineering student specializing in Artificial Intelligence  
+# Hi, I'm Oliwier Zaręba 👋
 
-Interested in Machine Learning & Data Science  
-Working with Python, SQL, Docker, and Git  
-Building end-to-end ML projects with a focus on clean code and engineering practices  
-Learning fundamentals of statistics, probability, and model evaluation  
+### 🚀 Data & AI Process Engineer | Software Engineering Student
+Software Engineering student specializing in Artificial Intelligence. Currently working as a Data & AI Process Engineer, building machine learning models and automated data pipelines.
 
-Current focus: practical Machine Learning projects and software engineering foundations
+---
 
-Email: oliwier.zar@wp.pl
-<!---
-Wifi1230/Wifi1230 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🛠️ Tech Stack & Tools
+* **Languages & DB:** Python, SQL
+* **Machine Learning:** XGBoost, Scikit-Learn, Pandas
+* **DevOps & Automation:** Docker, Git, n8n
+* **UI for ML:** Streamlit
+
+---
+
+### 📈 Current Focus & Projects
+* **Cargo Hybrid Pricing Engine:** Building an end-to-end logistics pricing tool using XGBoost and Streamlit.
+* **Engineering Foundations:** Learning advanced statistics, model evaluation, and clean code practices.
+
+---
+
+### 📫 Connect with me
+* **Email:** [oliwier.zar@wp.pl](mailto:oliwier.zar@wp.pl)
